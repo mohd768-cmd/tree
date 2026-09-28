@@ -1,0 +1,6 @@
+{
+  "name": "The Montgomery Lineage",
+  "description": "Family lineage tree and genealogical registry for Patriarch Aayinikunnathth Maayan Kutty, his wife Paathu, their children, and Jameela & Mammu's branch with Subail, Ansar, Safeera, Muhammad, Mafeeda, and Laaiq.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
